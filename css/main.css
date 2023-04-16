@@ -174,7 +174,7 @@ body {
 }
 
 .open-btn span {
-    background-color: #fff;
+    background-color: #FA8128;
     display: inline-block;
     height: 2px;
     position: relative;
@@ -182,7 +182,7 @@ body {
 }
 
 .open-btn span::after {
-    background-color: #fff;
+    background-color: #FA8128;
     bottom: 5px;
     content: "";
     height: 2px;
@@ -193,7 +193,7 @@ body {
 }
 
 .open-btn span::before {
-    background-color: #fff;
+    background-color: #FA8128;
     content: "";
     height: 2px;
     margin: 2px 0;
